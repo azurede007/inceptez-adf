@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy from MySQL",
+				"name": "Copy from MySQL1",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
